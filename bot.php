@@ -16,7 +16,7 @@ $str = explode($end,$str[1]);
 return $str[0];
 }
 echo "============================\n";
-echo "       BOT VAILD IMEI\n";
+echo "       BOT VALID IMEI\n";
 echo "Create by : Charles Giovanni\n";
 echo "=============================\n";
 
